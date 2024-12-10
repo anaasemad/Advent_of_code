@@ -32,7 +32,7 @@ void BubbleSort(vector<int>& v){
 
 int main(){
 	string linea;
-	int n = 1000;  // Hay 1000 filas (wc input)
+	int n = 1000;  // Hay 1000 filas (wc input)(en Linux)
 	vector<int> fila1(n);
 	vector<int> fila2(n);
 
